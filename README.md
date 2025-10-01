@@ -1,4 +1,3 @@
-# Time-Series-Stock-Markets
 
 # DATA ANALYTICS PROJECT:
 TIME SERIES ANALYSIS
