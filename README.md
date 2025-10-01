@@ -1,5 +1,10 @@
 # Time-Series-Stock-Markets
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Project Overview: This project aims to analyze and forecast stock market trends using time series analysis techniques.
+
+DATA ANALYTICS PROJECT:
+TIME SE R IES ANA L Y SIS
+AND F O R E C A STING F O R
+ST O C K MA R K ET 
+
 Project Overview:
 This project aims to analyze and forecast stock market trends using time series analysis techniques.
 Interns will explore various time series models to understand historical patterns, identify trends and
