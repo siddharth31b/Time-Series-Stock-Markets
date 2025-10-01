@@ -12,8 +12,8 @@ seasonality, and make short-term or long-term predictions. This project offers r
 financial data analytics, model development, and result interpretation.
 
 Project Objectives:
-Understand time series concepts such as trend, seasonality, and noise.
-Implement models like ARIMA, SARIMA, Prophet, and LSTM for forecasting.
+1) Understand time series concepts such as trend, seasonality, and noise.
+2) Implement models like ARIMA, SARIMA, Prophet, and LSTM for forecasting.
 Visualize insights and predictions through dashboards or reports.
 Evaluate and compare model accuracy.
 Collect and preprocess historical stock market data.
