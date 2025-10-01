@@ -2,7 +2,7 @@
 # DATA ANALYTICS PROJECT:
 TIME SERIES ANALYSIS
 AND FORE CASTING FOR
-STOCK MARKET 
+STOCK MARKET BY ZIDIO DEVELOPMENT
 
 # Project Overview:
 This project aims to analyze and forecast stock market trends using time series analysis techniques.
