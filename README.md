@@ -14,17 +14,17 @@ financial data analytics, model development, and result interpretation.
 Project Objectives:
 1) Understand time series concepts such as trend, seasonality, and noise.
 2) Implement models like ARIMA, SARIMA, Prophet, and LSTM for forecasting.
-Visualize insights and predictions through dashboards or reports.
-Evaluate and compare model accuracy.
-Collect and preprocess historical stock market data.
+3) Visualize insights and predictions through dashboards or reports.
+4) Evaluate and compare model accuracy.
+5) Collect and preprocess historical stock market data.
 
 Tech Stack & Tools:
-Python
-Pandas, NumPy
-Matplotlib, Seaborn, Plotly
-Scikit-learn, Statsmodels
-Facebook Prophet, TensorFlow/Keras (for LSTM)
-Streamlit/Flask for deployment (optional)
+1) Python
+2) Pandas, NumPy
+3) Matplotlib, Seaborn, Plotly
+4) Scikit-learn, Statsmodels
+5) Facebook Prophet, TensorFlow/Keras (for LSTM)
+6) Streamlit/Flask for deployment (optional)
 
 Dataset:
 You may use datasets from Yahoo Finance, Alpha Vantage, or Kaggle containing historical stock data.
